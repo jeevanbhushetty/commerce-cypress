@@ -22,4 +22,4 @@ cache:
 defaults: &defaults
   script:
     #  run all test cases.
-    - npm cypress test
+    - npm test
