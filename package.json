@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "$(npm bin)/cypress run"
+    "test": "$(npm bin)/cypress run --record --key 33bd0414-eb16-4292-96c1-a89e3a8fb21e"
   },
   "author": "",
   "license": "ISC",

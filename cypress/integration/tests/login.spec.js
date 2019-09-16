@@ -2,7 +2,7 @@
 
 context('Login form validation', () => {
     beforeEach(() => {
-        cy.visit('/')
+        cy.visit('/');
         cy.get('.ico-login').click();
     })
 
